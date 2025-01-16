@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <div className="bg-zinc-900 h-screen flex flex-col justify-center items-center text-zinc-50">
+    <div>
       <Header />
       <Content />
       <Footer />
